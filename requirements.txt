@@ -1,7 +1,0 @@
-pyTelegramBotAPI
-PyMuPDF
-lxml
-pytesseract
-pillow
-flask
-requests
